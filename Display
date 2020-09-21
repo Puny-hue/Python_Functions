@@ -1,0 +1,5 @@
+def display():
+    print("Punya is learning python")
+    
+
+display()
