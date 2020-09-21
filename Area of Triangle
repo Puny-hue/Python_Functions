@@ -1,0 +1,9 @@
+import math
+h=10
+b=5
+ 
+def area_of_triangle (h,b):
+    return h*b/2
+area = area_of_triangle(h,b)
+print(area)
+
