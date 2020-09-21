@@ -1,0 +1,14 @@
+print("entre your limit")
+a=input()
+print(a)
+print(type(a))
+
+aa=int(a)#typcasting the string into int
+i=0
+list=[]
+while (i<aa):
+    print(i)
+    i=i+1
+    list.append(i)
+    
+print(list)
