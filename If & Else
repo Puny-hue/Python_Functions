@@ -1,0 +1,9 @@
+def bigger():
+    x,y=10,12
+    if(x>y):
+        st="x is big"
+    else:
+        st="Y is big"
+    print(st)
+
+bigger()
