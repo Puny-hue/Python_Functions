@@ -1,0 +1,12 @@
+a=100
+b=200
+
+def cube(a):
+    return a*a*a
+a=cube(a)
+print(a)
+
+def square(b):
+    b= b/2
+    return b*b
+print(b)
